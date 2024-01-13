@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5f7681b682ef54a8022539af24fe04, type: 3}
+  m_Name: Boss ShieldRate
+  m_EditorClassIdentifier: 
+  itemName: ShieldRate
+  itemIcon: {fileID: 21300000, guid: c6b512a1aaefb14458c8a9df8205789b, type: 3}
+  itemDropChance: 50
+  itemStacks: 0
+  itemDescription: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5f7681b682ef54a8022539af24fe04, type: 3}
+  m_Name: SpeedItem
+  m_EditorClassIdentifier: 
+  itemName: SpeedItem
+  itemIcon: {fileID: 21300000, guid: 1b72634ede88edc4c9a41471f5088168, type: 3}
+  itemDropChance: 100
+  itemStacks: 6
+  itemDescription: Raises the player speed by 1 per Stack
